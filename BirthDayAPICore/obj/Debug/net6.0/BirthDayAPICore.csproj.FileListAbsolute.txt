@@ -1,0 +1,90 @@
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\appsettings.Development.json
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\appsettings.json
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.exe
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.deps.json
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.runtimeconfig.json
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.pdb
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\DnsClient.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\SharpCompress.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Snappier.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\ZstdSharp.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.csproj.AssemblyReference.cache
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.AssemblyInfoInputs.cache
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.AssemblyInfo.cs
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.csproj.CoreCompileInputs.cache
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets\msbuild.BirthDayAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.BirthDayAPICore.props
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BirthDayAPICore.props
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BirthDayAPICore.props
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\scopedcss\bundle\BirthDayAPICore.styles.css
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.csproj.CopyComplete
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\refint\BirthDayAPICore.dll
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.pdb
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.genruntimeconfig.cache
+D:\proiect 30 iun\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\ref\BirthDayAPICore.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\appsettings.Development.json
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\appsettings.json
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.exe
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.deps.json
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.runtimeconfig.json
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\BirthDayAPICore.pdb
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\DnsClient.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\SharpCompress.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Snappier.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\ZstdSharp.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.csproj.AssemblyReference.cache
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.AssemblyInfoInputs.cache
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.AssemblyInfo.cs
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.csproj.CoreCompileInputs.cache
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.MvcApplicationPartsAssemblyInfo.cs
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.MvcApplicationPartsAssemblyInfo.cache
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets\msbuild.BirthDayAPICore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets\msbuild.build.BirthDayAPICore.props
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BirthDayAPICore.props
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BirthDayAPICore.props
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets.build.json
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\staticwebassets.development.json
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\scopedcss\bundle\BirthDayAPICore.styles.css
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.csproj.CopyComplete
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\refint\BirthDayAPICore.dll
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.pdb
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\BirthDayAPICore.genruntimeconfig.cache
+D:\dawn\dawn\BirthDayAPICore\BirthDayAPICore\obj\Debug\net6.0\ref\BirthDayAPICore.dll
